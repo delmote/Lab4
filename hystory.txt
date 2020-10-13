@@ -1,0 +1,84 @@
+    1  sudo os-prober
+    2  sudo update-grub
+    3  sudo grub-install /dev/sdb
+    4  mkdir chahla
+    5  pwd
+    6  rm -rf chahla
+    7  grub-install -V
+    8  ls
+    9  add-apt-repository ppa:yannubuntu/boot-repair
+   10  add-apt-repository ppa:delmote/boot-repair
+   11  id
+   12  cat id
+   13  sudo add-apt-repository ppa:yannubuntu/boot-repair
+   14  sudo apt update
+   15  sudo apt install -y boot-repair
+   16  boot-repair
+   17  cd Desktop
+   18  mkdir lol
+   19  rm -rf lol
+   20  mkdir Desktop
+   21  rmdir Desktop
+   22  cd ../
+   23  mkdir Desktop
+   24  cd Desktop
+   25  mkdir lab1
+   26  cd lab1
+   27  git init
+   28  cd ../
+   29  cd Desktop
+   30  cd lab1
+   31  sudo apt nstall git gitk git-email
+   32  sudo apt install git gitk git-email
+   33  git config --global user.name Delmote
+   34  git config --global user.email delmoteleroy@gmail.com
+   35  --global user.name
+   36  git config --global user.name
+   37  git config--global user.email
+   38  git config --global user.email
+   39  git init
+   40  git status
+   41  git add .
+   42  git status
+   43  touch lol.txt
+   44  vim lol.txt 
+   45  echo "Dieu est grand" > lol.txt
+   46  git init
+   47  git status
+   48  git add
+   49  git add .
+   50  git commit -m Dieu est grand
+   51  cat lol.txt
+   52  git commit -m ok
+   53  git remote add origin https://github.com/delmote/Lab1.git
+   54  git push -u origin master
+   55  sudo apt install git gitk git-email
+   56  git config --global user.name Delmote
+   57  git config --global user.email delmoteleroy@gmail.com
+   58  git config --global user.name Delmote
+   59  git config --global user.email delmoteleroy@gmail.com
+   60  git config --global user.name
+   61  git config --global user.email
+   62  cd Destop
+   63  cd
+   64  cd Desktop/
+   65  mkdir Lab4
+   66  git init
+   67  git status
+   68  cd lab4
+   69  cd Lab4
+   70  git init
+   71  git status
+   72  git add
+   73  git remote add origin https://github.com/khachicha/5AS05-partie4.git
+   74  git push -u origin master
+   75  git clone https://github.com/khachicha/5AS05-partie4.git
+   76  rm 5AS05-partie4
+   77  cd ~
+   78  cd Desktop/
+   79  rm Lab4
+   80  mkdir lab4
+   81  cd lab4
+   82  git clone https://github.com/khachicha/5AS05-partie4.git
+   83  history
+   84  history > hystory.txt
